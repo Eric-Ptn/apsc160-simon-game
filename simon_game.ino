@@ -1,6 +1,4 @@
 /* Author: Eric Petersen
- * Student Number: 20071924
- * Student email: ericp01@student.ubc.ca
  * Lab 8, L1M
  *
  * Purpose: Plays the Simon game with the user.
